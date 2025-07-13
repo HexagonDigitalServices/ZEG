@@ -38,9 +38,9 @@ const Footer = () => (
                     </div>
                 </div>
 
-                <div className={styles.footer.centerContainer}>
+                <div className={styles.footer.centerContainer}/>
                    
-                </div>
+              
 
                 {/* Right: Social & Contact */}
                 <div className={styles.footer.rightContainer}>
