@@ -32,26 +32,14 @@ const Footer = () => (
                             Seamless one-to-one video calls with crystal clear audio and ultra-low latency.
                         </p>
                         <button className={styles.footer.cardButton}>
-                            Try Free Demo
+                            <a href='https://www.zegocloud.com/'>Try Free Demo</a>
+                            
                         </button>
                     </div>
                 </div>
 
-                {/* Center: Newsletter */}
                 <div className={styles.footer.centerContainer}>
-                    <h3 className={styles.footer.newsletterTitle}>Stay Updated</h3>
-                    <div className={styles.footer.newsletterBox}>
-                        <div className={styles.footer.newsletterInner}>
-                            <input
-                                type="email"
-                                placeholder="Your email address"
-                                className={styles.footer.emailInput}
-                            />
-                            <button className={styles.footer.subscribeButton}>
-                                <FaEnvelope className="mr-2" /> Subscribe
-                            </button>
-                        </div>
-                    </div>
+                   
                 </div>
 
                 {/* Right: Social & Contact */}

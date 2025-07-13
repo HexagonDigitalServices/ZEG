@@ -41,7 +41,7 @@ const Navbar = () => {
           {/* Right: Connect Button */}
           <div>
             <a
-              href="https://hexagondigitalservices.com/contact"
+              href="https://www.zegocloud.com/talk?contact_source=index"
               target="_blank"
               className={styles.navbar.buttonWrapper}
             >

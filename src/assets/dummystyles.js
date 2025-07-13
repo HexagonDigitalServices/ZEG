@@ -51,7 +51,7 @@ const dummyStyles = {
     leftContainer: "flex flex-col items-start sm:items-center md:items-start space-y-4",
     logoContainer: "flex items-center space-x-3",
     logoImg: "w-10 h-10 sm:w-12 sm:h-12 object-contain",
-    logoTitle: "text-lg sm:text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600",
+    logoTitle: "text-lg sm:text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600",
     card: "mt-4 sm:mt-6 bg-white p-4 rounded-xl shadow-md border border-blue-100 w-full sm:w-auto",
     cardTitle: "font-bold text-blue-600 flex items-center justify-center sm:justify-start",
     badge: "bg-blue-100 text-blue-800 rounded-full px-2 py-1 mr-2 text-xs",
